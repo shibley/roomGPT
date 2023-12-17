@@ -4,7 +4,7 @@ import "../styles/globals.css";
 
 let title = "Dream Room Generator";
 let description = "Generate your dream room in seconds.";
-let ogimage = "https://roomgpt-demo.vercel.app/og-image.png";
+let ogimage = "https://aihomeoffices.com/og-image.png";
 let sitename = "roomGPT.io";
 
 export const metadata: Metadata = {
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     images: [ogimage],
     title,
     description,
-    url: "https://roomgpt-demo.vercel.app",
+    url: "https://aihomeoffices.com",
     siteName: sitename,
     locale: "en_US",
     type: "website",
