@@ -5,7 +5,7 @@ import "../styles/globals.css";
 let title = "Dream Home Office Generator";
 let description = "Generate your dream home office in seconds.";
 let ogimage = "https://aihomeoffices.com/og-image.png";
-let sitename = "roomGPT.io";
+let sitename = "aihomeoffices.com";
 
 export const metadata: Metadata = {
   title,
